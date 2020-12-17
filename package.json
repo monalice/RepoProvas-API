@@ -1,0 +1,28 @@
+{
+  "name": "RepoProvas-API",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monalice/RepoProvas-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monalice/RepoProvas-API/issues"
+  },
+  "homepage": "https://github.com/monalice/RepoProvas-API#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "joi": "^17.3.0",
+    "nodemon": "^2.0.6",
+    "pg": "^8.5.1"
+  }
+}
